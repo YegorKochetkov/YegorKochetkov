@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kochetkov Yegor
-- 👀 I’m interested in cryptotrading, forex.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m looking for a job as a junior developer.
+- 🌱 I’m learning JavaScript, SQL, Git, React on my own.
 - 📫 How to reach me: https://t.me/kegor_fx or Skype -  kegor.fx
 
 <!---
