@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kochetkov Yegor
-- 👀 I’m looking for a job as a junior developer.
+- 👀 I’m looking for a job as a frontend developer.
 - 🌱 I’m learning JavaScript, SQL, Git, React on my own.
 - 📫 How to reach me: https://t.me/kegor_fx or Skype -  kegor.fx
 
