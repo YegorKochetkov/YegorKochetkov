@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Kochetkov Yegor
-- 👀 I’m looking for a job as a frontend developer.
-- 🌱 I’m learning JavaScript, SQL, Git, React on my own.
+## 👋 Hi, I’m @Kochetkov Yegor - aka kegor
+
+### I’m father, husband and a bit of developer
+- 👀 I’m looking for a job as a frontend developer
+- 🌱 I’m currently learning everything - React, Vue, Angular, phylosophy...
+- 🎶 I love music, the road, to travel and silence...
+
 - 📫 How to reach me: https://t.me/kegor_fx or Skype -  kegor.fx
 
 <!---
