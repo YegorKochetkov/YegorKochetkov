@@ -8,7 +8,7 @@
 ### 📫 How to connect with me:
 
 [<img align="left" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/25146954/186000136-6ae16ed9-9bf5-4345-9d22-cdb22428b506.png" style="padding-right:10px;" />](https://t.me/kegor_fx)
-[<img align="left" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/25146954/186000136-6ae16ed9-9bf5-4345-9d22-cdb22428b506.png" style="padding-right:10px;" />](https://join.skype.com/invite/mDyKFNzBZec4)
+[<img align="left" alt="Skype" width="32px" src="https://user-images.githubusercontent.com/25146954/186002526-0ca1ffc4-acaf-48ef-93f0-9c2587de0819.png" style="padding-right:10px;" />](https://join.skype.com/invite/b8VJxHepwaNo)
 
 <!---
 YegorKochetkov/YegorKochetkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
