@@ -7,6 +7,9 @@
 
 - 📫 How to reach me: https://t.me/kegor_fx or Skype -  kegor.fx
 
+### Connect with me:
+[<img align="left" alt="Telegram" width="22px" src="" style="padding-right:10px;" />](https://t.me/kegor_fx)
+
 <!---
 YegorKochetkov/YegorKochetkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
