@@ -31,6 +31,10 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 </p>
+<br />
+<br />
+
+[![codewars](https://www.codewars.com/users/kegor/badges/large)](https://www.codewars.com/users/kegor)
 
 <details>
 <summary>
