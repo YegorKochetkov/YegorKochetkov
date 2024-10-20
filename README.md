@@ -9,7 +9,9 @@
 <br />
 <h3 align="left">📫 Connect with me:</h3>
 
+<a href="https://bsky.app/profile/kegor.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/bluesky-social/social-app/72270fd5053f1132a7966197cd9dce17b5672d57/bskyembed/assets/logo.svg" alt="@k_yegor" height="40" /></a>&emsp;
 <a href="https://mastodon.social/@k_yegor" target="blank"><img align="center" src="https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png" alt="@k_yegor" height="40" /></a>&emsp;
+
 <a href="https://linkedin.com/in/yegor-kochetkov-299b35222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yegor-kochetkov-299b35222" height="40" /></a>&emsp;
 <a href="https://t.me/kegor_fx" target="blank"><img align="center" src="https://user-images.githubusercontent.com/25146954/186000136-6ae16ed9-9bf5-4345-9d22-cdb22428b506.png" alt="kegor_fx" height="40" /></a>&emsp;
 <a href="https://join.skype.com/invite/b8VJxHepwaNo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/25146954/186002526-0ca1ffc4-acaf-48ef-93f0-9c2587de0819.png" alt="kegor_fx" height="45" /></a>&emsp;
