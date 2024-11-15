@@ -1,55 +1,18 @@
-<h2>👋 Hi, I’m @Kochetkov Yegor - aka kegor</h2>
+# 💫 About Me:
+🔭 I am currently working on improving this world<br>👯 I am looking to collaborate with great people<br>🤝 I'm looking for help getting out of the matrix<br>🌱 I am currently learning how to be a good husband and father<br>💬 Ask me what is the power<br>⚡ Fun quote: "Be doubly careful when you want justice, for you may get it"
 
-<h3>👨‍👩‍👧‍👦 I’m father, husband and a bit of developer</h3>
-<ul>
-  <li>👀 I’m looking for a job as a frontend developer
-  <li>🌱 I’m currently learning everything - React, Vue, Angular, phylosophy...
-  <li>🎶 I love music, the road, to travel and silence...
-</ul>
-<br />
-<h3 align="left">📫 Connect with me:</h3>
 
-<a href="https://x.com/kegor" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=777777" alt="@k_yegor" height="40" /></a>&emsp;
-<a href="https://bsky.app/profile/kegor.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/bluesky-social/social-app/72270fd5053f1132a7966197cd9dce17b5672d57/bskyembed/assets/logo.svg" alt="@k_yegor" height="40" /></a>&emsp;
-<a href="https://mastodon.social/@k_yegor" target="blank"><img align="center" src="https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png" alt="@k_yegor" height="40" /></a>&emsp;
-<a href="https://linkedin.com/in/yegor-kochetkov-299b35222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yegor-kochetkov-299b35222" height="40" /></a>&emsp;
-<a href="https://t.me/kegor_fx" target="blank"><img align="center" src="https://user-images.githubusercontent.com/25146954/186000136-6ae16ed9-9bf5-4345-9d22-cdb22428b506.png" alt="kegor_fx" height="40" /></a>&emsp;
-<a href="https://join.skype.com/invite/b8VJxHepwaNo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/25146954/186002526-0ca1ffc4-acaf-48ef-93f0-9c2587de0819.png" alt="kegor_fx" height="45" /></a>&emsp;
-<a href="https://fb.com/kegor.fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kegor_fx" height="40" /></a>
-<br />
-<br />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-</p>
-<br />
-<br />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yegor-kochetkov-work) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YegorKochetkov) 
 
-[![codewars](https://www.codewars.com/users/kegor/badges/large)](https://www.codewars.com/users/kegor)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YegorKochetkov&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YegorKochetkov&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorKochetkov&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<details>
-<summary>
-<h3>ℹ️ GitHub Stats:</h3>
-</summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yegorkochetkov" alt="yegorkochetkov" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yegorkochetkov&show_icons=true&locale=en" alt="yegorkochetkov" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yegorkochetkov&" alt="yegorkochetkov" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yegorkochetkov&show_icons=true&locale=en&layout=compact" alt="yegorkochetkov" /></p>
-</details>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!---
-YegorKochetkov/YegorKochetkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
