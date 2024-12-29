@@ -4,7 +4,6 @@
 
 ## 🌐 Socials:
 <a href="https://x.com/kegor" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="@k_yegor" height="40" /></a>&emsp;
-<a href="https://bsky.app/profile/kegor.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/bluesky-social/social-app/72270fd5053f1132a7966197cd9dce17b5672d57/bskyembed/assets/logo.svg" alt="@k_yegor" height="40" /></a>&emsp;
 <a href="https://linkedin.com/in/yegor-kochetkov-299b35222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yegor-kochetkov-299b35222" height="40" /></a>&emsp;
 
 # 💻 Tech Stack:
